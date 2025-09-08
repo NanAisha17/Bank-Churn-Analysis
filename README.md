@@ -46,7 +46,7 @@ The dashboard was replicated as part of a guided hands-on internship training pr
 
 ---
 
-##💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, the following strategies are recommended to reduce churn:
 
